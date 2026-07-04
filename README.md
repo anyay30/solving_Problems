@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/anyay30/solving_Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anyay30/solving_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anyay30/solving_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anyay30/solving_Problems/tree/master/1768-merge-strings-alternately) |
 ## Math
