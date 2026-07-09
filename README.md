@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anyay30/solving_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anyay30/solving_Problems/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anyay30/solving_Problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/anyay30/solving_Problems/tree/master/0605-can-place-flowers) |
 ## Sorting
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/anyay30/solving_Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
