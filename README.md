@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anyay30/solving_Problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/anyay30/solving_Problems/tree/master/0605-can-place-flowers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anyay30/solving_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anyay30/solving_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
