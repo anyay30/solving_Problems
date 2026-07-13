@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anyay30/solving_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anyay30/solving_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/anyay30/solving_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anyay30/solving_Problems/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anyay30/solving_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anyay30/solving_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/anyay30/solving_Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anyay30/solving_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anyay30/solving_Problems/tree/master/0018-4sum) |
 | [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/anyay30/solving_Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anyay30/solving_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
