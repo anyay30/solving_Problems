@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anyay30/solving_Problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/anyay30/solving_Problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/anyay30/solving_Problems/tree/master/0605-can-place-flowers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anyay30/solving_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anyay30/solving_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anyay30/solving_Problems/tree/master/0018-4sum) |
+| [0283-move-zeroes](https://github.com/anyay30/solving_Problems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/anyay30/solving_Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anyay30/solving_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
