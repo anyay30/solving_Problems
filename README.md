@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/anyay30/solving_Problems/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anyay30/solving_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anyay30/solving_Problems/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anyay30/solving_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
