@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anyay30/solving_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anyay30/solving_Problems/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/anyay30/solving_Problems/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/anyay30/solving_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anyay30/solving_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anyay30/solving_Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anyay30/solving_Problems/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anyay30/solving_Problems/tree/master/0796-rotate-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
