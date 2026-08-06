@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/anyay30/solving_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anyay30/solving_Problems/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/anyay30/solving_Problems/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anyay30/solving_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Linked List
 |  |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/anyay30/solving_Problems/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/anyay30/solving_Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
