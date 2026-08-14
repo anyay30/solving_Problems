@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anyay30/solving_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anyay30/solving_Problems/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anyay30/solving_Problems/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anyay30/solving_Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anyay30/solving_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anyay30/solving_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anyay30/solving_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anyay30/solving_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anyay30/solving_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anyay30/solving_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anyay30/solving_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anyay30/solving_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anyay30/solving_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -165,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anyay30/solving_Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
