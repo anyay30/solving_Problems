@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/anyay30/solving_Problems/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/anyay30/solving_Problems/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anyay30/solving_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
