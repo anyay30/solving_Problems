@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/anyay30/solving_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/anyay30/solving_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/anyay30/solving_Problems/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/anyay30/solving_Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/anyay30/solving_Problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/anyay30/solving_Problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/anyay30/solving_Problems/tree/master/1729-find-followers-count) |
