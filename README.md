@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anyay30/solving_Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anyay30/solving_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anyay30/solving_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/anyay30/solving_Problems/tree/master/0056-merge-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anyay30/solving_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/anyay30/solving_Problems/tree/master/1207-unique-number-of-occurrences) |
