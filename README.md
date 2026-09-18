@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anyay30/solving_Problems/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anyay30/solving_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anyay30/solving_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anyay30/solving_Problems/tree/master/0213-house-robber-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anyay30/solving_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anyay30/solving_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anyay30/solving_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anyay30/solving_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anyay30/solving_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anyay30/solving_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anyay30/solving_Problems/tree/master/0213-house-robber-ii) |
