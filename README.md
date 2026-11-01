@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anyay30/solving_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/anyay30/solving_Problems/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/anyay30/solving_Problems/tree/master/0038-count-and-say) |
+| [0389-find-the-difference](https://github.com/anyay30/solving_Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/anyay30/solving_Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/anyay30/solving_Problems/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anyay30/solving_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anyay30/solving_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anyay30/solving_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anyay30/solving_Problems/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/anyay30/solving_Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/anyay30/solving_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anyay30/solving_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anyay30/solving_Problems/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/anyay30/solving_Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/anyay30/solving_Problems/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
